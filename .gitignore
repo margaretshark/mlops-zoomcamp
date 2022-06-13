@@ -1,2 +1,5 @@
 hw2/data/
 hw2/output/
+hw3/data/
+hw3/.*
+hw3/.*/
