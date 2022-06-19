@@ -1,3 +1,11 @@
+hw4/__pycache__/
+hw4/data/
+
+# Jupyter notebooks
+hw4/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+
 hw2/data/
 hw2/output/
 hw3/data/
