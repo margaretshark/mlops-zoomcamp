@@ -1,6 +1,11 @@
 hw4/__pycache__/
 hw4/data/
 
+
+.DS_Store
+*/.DS_Store
+  
+
 # Jupyter notebooks
 hw4/.ipynb_checkpoints
 */.ipynb_checkpoints/*
